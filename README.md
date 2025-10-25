@@ -14,7 +14,7 @@ Most of the problems are from  online coding exercises that I practice to improv
 
 ---
 
-## 📂 Folder / File Structure
+## 📂 File Structure
 Each folder or file represents a topic or a set of problems I practiced:
 
 
