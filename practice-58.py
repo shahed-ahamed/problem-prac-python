@@ -1,4 +1,4 @@
-# cover USD to BDT
+
 
 a = float(input("Enter USD: "))
 
@@ -7,3 +7,4 @@ def converter (usd_val):
     print("BDT:", bdt_val, "Taka")
 
 converter(a)
+
